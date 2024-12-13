@@ -1,4 +1,4 @@
-# shuffleton-ashmole
+# shuffelton-ashmole
 
 This repository is for the edition _Codex Ashmole 61: A Compilation of Popular Middle English Verse_, edited by George Shuffelton. It contains:
 
